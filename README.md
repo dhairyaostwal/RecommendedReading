@@ -5,11 +5,3 @@
 <a href = "https://github.com/vitlug/RecommendedReading/blob/main/papers.md">Paper</a>
 <a href = "https://github.com/vitlug/RecommendedReading/blob/main/Articles.md">Articles</a>
 
-Art by Donovan Bake
-      __...--~~~~~-._   _.-~~~~~--...__
-    //               `V'               \\ 
-   //                 |                 \\ 
-  //__...--~~~~~~-._  |  _.-~~~~~~--...__\\ 
- //__.....----~~~~._\ | /_.~~~~----.....__\\
-====================\\|//====================
-                dwb `---`
