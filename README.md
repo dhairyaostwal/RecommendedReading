@@ -1,4 +1,5 @@
-## Operating Systems and Development: A list of Recommended Reading by VIT Linux User Group
+## Operating Systems and Development
+<b><i>A list of Recommended Reading by VIT Linux User Group</i></b>
 
 
 <a href = "https://github.com/vitlug/RecommendedReading/blob/main/books.md">Books</a><br>
