@@ -1,2 +1,15 @@
-# RecommendedReading
-A list of recommended reading by VIT Linux User Group
+## Operating Systems and Development: A list of Recommended Reading by VIT Linux User Group
+
+
+<a href = "https://github.com/vitlug/RecommendedReading/blob/main/books.md">Books</a>
+<a href = "https://github.com/vitlug/RecommendedReading/blob/main/papers.md">Paper</a>
+<a href = "https://github.com/vitlug/RecommendedReading/blob/main/Articles.md">Articles</a>
+
+Art by Donovan Bake
+      __...--~~~~~-._   _.-~~~~~--...__
+    //               `V'               \\ 
+   //                 |                 \\ 
+  //__...--~~~~~~-._  |  _.-~~~~~~--...__\\ 
+ //__.....----~~~~._\ | /_.~~~~----.....__\\
+====================\\|//====================
+                dwb `---`
